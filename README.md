@@ -12,6 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 3. Create build: `yarn build:prod`
 4. Start local server: `yarn start`
 5. Go to: `http://localhost:3000/`
+6. Sign in with test user gmail account:
+    * kristian.testing2@gmail.com
+    * testing1!
 
 
 ### Prerequisites
